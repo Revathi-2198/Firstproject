@@ -1,3 +1,3 @@
-a=5
-b=200
+a='Reva'
+b='chan'
 print(a+b)
